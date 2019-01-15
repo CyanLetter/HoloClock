@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{9B71B9C4-EAC1-AD6A-335F-A9BDA1FDF651}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ClockDisplay.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SevenSegmentDisplay.cs" Line="52" Column="79" />
+      <File FileName="Assets/Scripts/SegmentMap.cs" Line="4" Column="70" />
+      <File FileName="Assets/Editor/SevenSegmentDisplayEditor.cs" Line="24" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/ClockDisplay.cs" Line="17" Column="3" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
